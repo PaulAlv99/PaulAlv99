@@ -4,6 +4,28 @@
 <h3 align="left">Year 1</h3>
 <ul>
   <li>
-    Digital Systems: <a href="localhost:3000"></a>
+    Digital Systems: 
   </li>
+  <li>
+    Data Structures and Algorithms:
+  </li>
+</ul>
+<h3 align="left">Year 2</h3>
+<ul>
+  <li>
+    OOP: 
+  </li>
+   <li>
+    Database Management Systems: 
+  </li>
+  <li>
+    Web-Based Development: 
+  </li>
+  <li>
+    Computer Architecture:<p><ul><li>Project I</li><li>Project II</li><li>Project III</li></ul></p>
+  </li>
+  <li>
+    Networks and Data Communication: 
+  </li>
+  
 </ul>
