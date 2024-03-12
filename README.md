@@ -3,8 +3,6 @@
 
 - 🔭 I'm currently studying **at the Universidade da Madeira in Funchal, Madeira, Portugal**
 
-- 📫 How to reach me **pauloalexalves2011@hotmail.com**
-
 <p align="left">
 </p>
 
