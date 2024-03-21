@@ -4,7 +4,7 @@
 <h3 align="left">Year 1</h3>
 <ul>
   <li>
-    Digital Systems: <a href="https://github.com/PaulAlv99/ProjSD"Project 2º Phase</a>
+    Digital Systems: <a href="https://github.com/PaulAlv99/ProjSD">Project 2º Phase</a>
   </li>
   <li>
     Data Structures and Algorithms:
