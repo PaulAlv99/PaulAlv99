@@ -4,10 +4,10 @@
 <h3 align="left">Year 1</h3>
 <ul>
   <li>
-    Digital Systems: <a href="https://github.com/PaulAlv99/ProjSD">Project 2º Phase</a>
+    Digital Systems: <a href="https://github.com/PaulAlv99/ProjSD">Here</a>
   </li>
   <li>
-    Data Structures and Algorithms:
+    Data Structures and Algorithms: <a href="https://github.com/PaulAlv99/OficinaEDA">Here</a>
   </li>
 </ul>
 <h3 align="left">Year 2</h3>
@@ -16,7 +16,7 @@
     OOP: 
   </li>
    <li>
-    Database Management Systems: 
+    Database Management Systems: <a href="https://github.com/PaulAlv99/ProjSGBD">Here</a>
   </li>
   <li>
     Web-Based Development: 
