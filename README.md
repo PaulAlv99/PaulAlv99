@@ -6,7 +6,7 @@
 <p align="left">
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulalv99" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark" alt="paulalv99" /></p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulalv99" style="height: 200px;" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark" alt="paulalv99" style="height: 200px;" /></p>
 </div>
