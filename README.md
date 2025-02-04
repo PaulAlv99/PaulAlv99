@@ -7,11 +7,12 @@
 </p>
 
 
-<div style="flex-container display:flex justify-content:center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <div>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulalv99" style="height: 200px;" /></p>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulalv99" style="height: 200px;">
+  </div>
   <div>
-<p><img src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark" alt="paulalv99" style="height: 200px;" /></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark" alt="paulalv99" style="height: 200px;">
   </div>
 </div>
+
