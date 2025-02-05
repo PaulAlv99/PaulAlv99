@@ -7,7 +7,7 @@
 </p>
 
 
-<div style="height: 100px;weight: 200px;display: flex; justify-content: center; gap: 2px;">
+<div style="height: 10px;weight: 20px;display: flex; justify-content: center; gap: 2px;">
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulalv99" style="height: 200px;">
   </div>
