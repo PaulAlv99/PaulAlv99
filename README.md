@@ -9,10 +9,10 @@
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulalv99" style="height: 200px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulalv99" style="height: 200px;">
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark" alt="paulalv99" style="height: 200px;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark" alt="paulalv99" style="height: 200px;">
   </div>
 </div>
 
