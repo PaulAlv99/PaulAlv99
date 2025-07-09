@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Alves</h1>
 <h3 align="center">I currently live in Madeira, Portugal</h3>
 
-- 🔭 I'm currently studying **at the Universidade da Madeira in Funchal, Madeira, Portugal**
+- 🔭 I graduated from ** Universidade da Madeira in Funchal, Madeira, Portugal** in Computer Science and Engineering
 
 <p align="left">
 </p>
