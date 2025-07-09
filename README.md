@@ -16,5 +16,4 @@
   </div>
 
 </div>
-  ![](https://komarev.com/ghpvc/?username=PaulAlv99&color=green)
-
+![](https://komarev.com/ghpvc/?username=PaulAlv99)
