@@ -14,5 +14,6 @@
   <div>
     <img style="height: auto;weight: auto;" align="right" src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark" alt="paulalv99" style="height: 200px;">
   </div>
+  ![](https://komarev.com/ghpvc/?username=PaulAlv99&color=green)
 </div>
 
