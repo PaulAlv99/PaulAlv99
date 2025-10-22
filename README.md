@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo Alves</h1>
-<h3 align="center">I currently live in Madeira, Portugal</h3>
+<h1 align="center">I'm Paulo Alves</h1>
 
 <p align="left">
 </p>
