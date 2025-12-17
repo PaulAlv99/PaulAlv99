@@ -11,12 +11,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&layout=compact&theme=dark"
     alt="Top Languages"
-    height="180"
+    height="180px"
   />
   &nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&theme=dark"
     alt="GitHub Stats"
-    height="180"
+    height="180px"
   />
 </div>
