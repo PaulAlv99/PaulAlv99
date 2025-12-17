@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Paulo Alves</h1>
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=PaulAlv99&style=flat-square"
@@ -7,15 +9,14 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&show_icons=true&locale=en&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&layout=compact&theme=dark"
     alt="Top Languages"
     height="180"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&locale=en&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&theme=dark"
     alt="GitHub Stats"
     height="180"
   />
 </div>
-
