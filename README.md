@@ -15,9 +15,9 @@
   />
 </p>
 
-![Stats](https://raw.githubusercontent.com/PaulAlv99/PaulAlv99.github.io/main/profile/stats.svg)
-![Streak](https://raw.githubusercontent.com/PaulAlv99/PaulAlv99.github.io/main/profile/streak.svg)
-![Pinned](https://raw.githubusercontent.com/PaulAlv99/PaulAlv99.github.io/main/profile/pin-readme-tools-github-readme-stats.svg)
+![Streak](./profile/streak.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Stats](./profile/stats.svg)
 
 
 <br />
