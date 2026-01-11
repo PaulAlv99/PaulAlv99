@@ -15,20 +15,11 @@
   />
 </p>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=paulalv99&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-    height="180"
-  />
-</div>
+
+![Streak](./profile/streak.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Stats](./profile/stats.svg)
 
 <br />
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulalv99&layout=compact&theme=dark"
-    alt="Top Languages"
-    height="180"
-  />
-</div>
+![Top Languages](./profile/top-langs.svg)
