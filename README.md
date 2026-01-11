@@ -15,11 +15,17 @@
   />
 </p>
 
-![Streak](./profile/streak.svg)
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
 
-![Stats](./profile/stats.svg)
-
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 
 <br />
 
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
