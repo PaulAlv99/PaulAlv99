@@ -15,10 +15,9 @@
   />
 </p>
 
-
-![Streak](./profile/streak.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-![Stats](github.com/paulalv99/paulalv99.github.io/blob/main/profile/stats.svg)
+![Streak](./paulalv99.github.io/profile/streak.svg)
+![Pinned](./paulalv99.github.io/profile/pin-readme-tools-github-readme-stats.svg)
+![Stats](./paulalv99.github.io/profile/stats.svg)
 
 <br />
 
