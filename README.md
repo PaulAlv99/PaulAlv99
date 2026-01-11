@@ -16,7 +16,7 @@
 </p>
 
 ![Streak](./profile/streak.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 ![Stats](./profile/stats.svg)
 
 
