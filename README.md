@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo Alves</h1>
+<!-- <h1 align="center">Hi 👋, I'm Paulo Alves</h1>
 
 <p align="center">
   <img
@@ -23,7 +23,7 @@
   <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
-<br />
+<br /> -->
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" />
