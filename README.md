@@ -1,11 +1,18 @@
-<!-- <h1 align="center">Hi 👋, I'm Paulo Alves</h1>
+<p align="center>
+  🇵🇹
+</p>
+<h2 align="center">Sou o Paulo, neste momento estou a frequentar o mestrado em Engenharia Informática na Universidade do Minho</h2>
 
-<p align="center">
+<h3 align="center">Sobre min</h3>
+
+<h4 align="center">Gosto de ir à praia, ouvir música, ler ocasionalmente, viajar e ir ao ginásio</h4>
+
+<!-- <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=PaulAlv99&style=flat-square"
     alt="profile views"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
@@ -15,15 +22,22 @@
   />
 </p>
 
-<p align="center">
+<p align="center>
+  🇬🇧
+</p>
+
+<h2 align="center">I'm Paulo, and I'm currently pursuing a master's degree in Computer Science and Engineering at the University of Minho</h2>
+
+<h3 align="center">About me</h3>
+
+<h4 align="center">I like going to the beach, listening to music, reading occasionally, traveling, and going to the gym</h4>
+<!-- <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
-</p>
-
-<br /> -->
+</p> -->
 
 <!-- <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" />
