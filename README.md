@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
   🇵🇹
 </p>
 <h2 align="center">Sou o Paulo, neste momento estou a frequentar o mestrado em Engenharia Informática na Universidade do Minho</h2>
@@ -22,7 +22,7 @@
   />
 </p>
 
-<p align="center>
+<p align="center">
   🇬🇧
 </p>
 
