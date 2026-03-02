@@ -9,7 +9,7 @@
 <h4 align="center">Gosto de ir à praia, ouvir música, ler ocasionalmente, viajar e ir ao ginásio</h4>
 
 <p align="left">
-  <a href="https://github.com/PaulAlv99/PersonalProjects">Projetos pessoais</a>
+➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Projetos pessoais</a>
 </p>
 <!-- <p align="center">
   <img
@@ -37,7 +37,7 @@
 <h4 align="center">I like going to the beach, listening to music, reading occasionally, traveling, and going to the gym</h4>
 
 <p align="left">
-  <a href="https://github.com/PaulAlv99/PersonalProjects">Personal projects</a>
+➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal projects</a>
 </p>
 <!-- <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
