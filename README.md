@@ -1,6 +1,7 @@
 <p align="center">
   🇵🇹
 </p>
+---
 <h2 align="center">Sou o Paulo, neste momento estou a frequentar o mestrado em Engenharia Informática na Universidade do Minho</h2>
 
 <h3 align="center">Sobre min</h3>
@@ -13,7 +14,7 @@
     alt="profile views"
   />
 </p> -->
-
+---
 <p align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vmb2V4d3A2eGV0eXZ2bXZ1YWRxYTF3YjZlZ3M2bTlxNHV6bTNmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
@@ -21,11 +22,11 @@
     width="280"
   />
 </p>
-
+---
 <p align="center">
   🇬🇧
 </p>
-
+---
 <h2 align="center">I'm Paulo, and I'm currently pursuing a master's degree in Computer Science and Engineering at the University of Minho</h2>
 
 <h3 align="center">About me</h3>
