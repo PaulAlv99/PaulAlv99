@@ -16,17 +16,16 @@
   />
 </p> -->
 <hr>
-<div>
-<p align="center">
+<div align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vmb2V4d3A2eGV0eXZ2bXZ1YWRxYTF3YjZlZ3M2bTlxNHV6bTNmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
-    alt="coding gif"
-    width="280"
+    width="320"
   />
-</p>
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
+  <br><br>
+  <img
+    src="./profile/top-langs.svg"
+    width="320"
+  />
 </div>
 <hr>
 <p align="center">
