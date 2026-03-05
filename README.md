@@ -16,6 +16,7 @@
   />
 </p> -->
 <hr>
+<div>
 <p align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vmb2V4d3A2eGV0eXZ2bXZ1YWRxYTF3YjZlZ3M2bTlxNHV6bTNmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
@@ -26,6 +27,7 @@
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+</div>
 <hr>
 <p align="center">
   🇬🇧
