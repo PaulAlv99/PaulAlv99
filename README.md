@@ -23,6 +23,9 @@
     width="280"
   />
 </p>
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 <hr>
 <p align="center">
   🇬🇧
