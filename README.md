@@ -10,7 +10,7 @@
 
 <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Projetos Pessoais</a></h3>
 
-<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Projetos Universidade</a></h3>
+<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">Projetos Universidade</a></h3>
 
 <!-- <p align="center">
   <img
@@ -42,7 +42,7 @@
 <h4 align="center">I like going to the beach, listening to music, reading occasionally, traveling, and going to the gym</h4>
 
 <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
-<h3 align="left">➡️ <a href="TODO">University Projects</a></h3>
+<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">University Projects</a></h3>
 <!-- <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p> -->
