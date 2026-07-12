@@ -43,7 +43,7 @@
     width="320"
   />
 </div>
-<hr>
+<!-- <hr> -->
 <!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">University Projects</a></h3> -->
 <!-- <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
