@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   🇵🇹
 </p>
 <hr>
@@ -8,7 +8,7 @@
 
 <h4 align="center">Gosto de ir à praia, ouvir música, ler ocasionalmente, viajar e ir ao ginásio</h4>
 
-<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Projetos Pessoais</a></h3>
+<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Projetos Pessoais</a></h3> -->
 
 <!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">Projetos Universidade</a></h3> -->
 
@@ -18,7 +18,20 @@
     alt="profile views"
   />
 </p> -->
-<hr>
+<!-- <hr> -->
+
+<!-- <p align="center">
+  🇬🇧
+</p>
+<hr> -->
+<h2 align="center">I'm Paulo, and I'm currently pursuing a master's degree in Computer Science and Engineering at the University of Minho</h2>
+
+<h3 align="center">About me</h3>
+
+<h4 align="center">I like going to the beach, listening to music, reading occasionally, traveling, and going to the gym</h4>
+
+<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
+
 <div align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vmb2V4d3A2eGV0eXZ2bXZ1YWRxYTF3YjZlZ3M2bTlxNHV6bTNmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
@@ -31,17 +44,6 @@
   />
 </div>
 <hr>
-<p align="center">
-  🇬🇧
-</p>
-<hr>
-<h2 align="center">I'm Paulo, and I'm currently pursuing a master's degree in Computer Science and Engineering at the University of Minho</h2>
-
-<h3 align="center">About me</h3>
-
-<h4 align="center">I like going to the beach, listening to music, reading occasionally, traveling, and going to the gym</h4>
-
-<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
 <!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">University Projects</a></h3> -->
 <!-- <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
