@@ -24,11 +24,11 @@
   🇬🇧
 </p>
 <hr> -->
-<h2 align="center">I'm Paulo, and I'm currently pursuing a master's degree in Computer Science and Engineering at the University of Minho</h2>
+<h2 align="center">I am Paulo, a Master’s student in Computer Science and Engineering at the University of Minho.</h2>
 
 <h3 align="center">About me</h3>
 
-<h4 align="center">I like going to the beach, listening to music, reading occasionally, traveling, and going to the gym</h4>
+<h4 align="center">I enjoy going to the beach, listening to music, reading, travelling, and working out. These are just a few of my interests. Feel free to contact me to know more.</h4>
 
 <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
 
