@@ -42,7 +42,7 @@
     src="./profile/top-langs.svg"
     width="320"
   />
-</div> --> -->
+</div> -->
 <!-- <hr> -->
 <!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">University Projects</a></h3> -->
 <!-- <p align="center">
