@@ -28,9 +28,9 @@
 
 <h3 align="center">About me</h3>
 
-<h4 align="center">I enjoy going to the beach, listening to music, reading, travelling, and working out. These are just a few of my interests. Feel free to contact me to know more.</h4>
+<h4 style="text-align: center;">I enjoy going to the beach, listening to music, reading, travelling, and working out. Feel free to contact me to know more.</h4>
 
-<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
+<!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
 
 <!-- <div align="center">
   <!-- <img
@@ -38,11 +38,11 @@
     width="320"
   />
   <br><br> -->
-  <img
+  <!--<img
     src="./profile/top-langs.svg"
     width="320"
   />
-</div> -->
+</div> --> -->
 <!-- <hr> -->
 <!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">University Projects</a></h3> -->
 <!-- <p align="center">
