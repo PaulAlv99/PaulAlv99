@@ -32,7 +32,7 @@
 
 <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
 
-<div align="center">
+<!-- <div align="center">
   <!-- <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vmb2V4d3A2eGV0eXZ2bXZ1YWRxYTF3YjZlZ3M2bTlxNHV6bTNmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
     width="320"
@@ -42,7 +42,7 @@
     src="./profile/top-langs.svg"
     width="320"
   />
-</div>
+</div> -->
 <!-- <hr> -->
 <!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">University Projects</a></h3> -->
 <!-- <p align="center">
