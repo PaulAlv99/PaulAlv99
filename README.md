@@ -23,7 +23,7 @@ I enjoy building reliable software systems—from backend APIs, data pipelines a
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,pandas,numpy,sklearn,spring,postgres,mysql,mongodb,docker,kubernetes,gcp,ansible,git,github,linux,js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,sklearn,postgres,mysql,mongodb,docker,kubernetes,gcp,ansible,git,github,linux,js" />
 </p>
 
 ## Beyond code
