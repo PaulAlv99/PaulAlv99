@@ -32,5 +32,5 @@ Outside technology, I enjoy travelling, nature and mountains, swimming, running,
 
 ## Connect with me
 
-- LinkedIn: [linkedin.com/in/paulo-alves-a30993151]((https://www.linkedin.com/in/paulo-alves-a30993151/))
+- LinkedIn: [linkedin.com/in/paulo-alves-a30993151](https://www.linkedin.com/in/paulo-alves-a30993151/)
 - Portfolio: [pauloalvesprojects.serveblog.net](https://pauloalvesprojects.serveblog.net/)
