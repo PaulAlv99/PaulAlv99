@@ -1,59 +1,36 @@
-<!-- <p align="center">
-  🇵🇹
+# Paulo Alves
+
+### Software Engineering Master's Student | Backend, ML & Data
+
+I’m a Master’s student in Computer Science and Engineering at the University of Minho.
+
+I enjoy building reliable software systems—from backend APIs, data pipelines and machine-learning solutions. I’m currently seeking opportunities where I can grow as a software engineer and contribute to meaningful, real-world products.
+
+## What I work with
+
+- Backend development with Java, Spring Boot and REST APIs
+- Data engineering, SQL, ETL/ELT and data warehousing
+- Python for automation, data analysis and machine learning
+- Developing systems using Docker and for cloud solutions (GCP) I used Kubernetes and Ansible
+- Monitoring and performance testing with Prometheus, Grafana and k6
+
+## Featured projects
+
+- **Flood Prediction Lakehouse** — Data ingestion pipelines, a SQL Server data warehouse and ML models for hydrological prediction.
+- **Public Transport Platform** — A ticketing and route-planning platform built with Spring Boot, PostgreSQL, RabbitMQ and Vue. It uses the RAPTOR algorithm (Round-based Public Transit Optimized Router), which finds efficient journeys by processing public-transport routes in rounds—each round represents one additional transfer—rather than modelling the network as a traditional graph.
+- **Cloud-Native Infrastructure** — Automated GKE deployment using Kubernetes, Ansible, monitoring dashboards and load testing.
+
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,pandas,numpy,sklearn,spring,postgres,mysql,mongodb,docker,kubernetes,gcp,ansible,git,github,linux,js" />
 </p>
-<hr>
-<h2 align="center">Sou o Paulo, neste momento estou a frequentar o mestrado em Engenharia Informática na Universidade do Minho</h2>
 
-<h3 align="center">Sobre min</h3>
+## Beyond code
 
-<h4 align="center">Gosto de ir à praia, ouvir música, ler ocasionalmente, viajar e ir ao ginásio</h4>
+Outside technology, I enjoy travelling, nature and mountains, swimming, running, the beach, music and reading.
 
-<h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Projetos Pessoais</a></h3> -->
+## Connect with me
 
-<!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">Projetos Universidade</a></h3> -->
-
-<!-- <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=PaulAlv99&style=flat-square"
-    alt="profile views"
-  />
-</p> -->
-<!-- <hr> -->
-
-<!-- <p align="center">
-  🇬🇧
-</p>
-<hr> -->
-<h2 align="center">I am Paulo, a Master’s student in Computer Science and Engineering at the University of Minho.</h2>
-
-<h3 align="center">About me</h3>
-
-<h4 style="text-align: center;">I enjoy going to the beach, listening to music, reading, travelling, and working out. Feel free to contact me to know more.</h4>
-
-<!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/PersonalProjects">Personal Projects</a></h3>
-
-<!-- <div align="center">
-  <!-- <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vmb2V4d3A2eGV0eXZ2bXZ1YWRxYTF3YjZlZ3M2bTlxNHV6bTNmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
-    width="320"
-  />
-  <br><br> -->
-  <!--<img
-    src="./profile/top-langs.svg"
-    width="320"
-  />
-</div> -->
-<!-- <hr> -->
-<!-- <h3 align="left">➡️ <a href="https://github.com/PaulAlv99/Universidade">University Projects</a></h3> -->
-<!-- <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p> -->
-
+- LinkedIn: [Add your LinkedIn link]((https://www.linkedin.com/in/paulo-alves-a30993151/))
+- Portfolio: [pauloalvesprojects.serveblog.net](https://pauloalvesprojects.serveblog.net/)
