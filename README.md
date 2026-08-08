@@ -4,7 +4,7 @@
 
 I’m a Master’s student in Computer Science and Engineering at the University of Minho.
 
-I enjoy building reliable software systems—from backend APIs, data pipelines and machine-learning solutions. I’m currently seeking opportunities where I can grow as a software engineer and contribute to meaningful, real-world products.
+I enjoy building reliable software systems, from backend APIs, data pipelines and machine-learning solutions. I’m currently seeking opportunities where I can grow as a software engineer and contribute to meaningful, real-world products.
 
 ## What I work with
 
@@ -16,9 +16,9 @@ I enjoy building reliable software systems—from backend APIs, data pipelines a
 
 ## Featured projects
 
-- **Flood Prediction Lakehouse** — Data ingestion pipelines, a SQL Server data warehouse and ML models for hydrological prediction.
-- **Public Transport Platform** — A ticketing and route-planning platform built with Spring Boot, PostgreSQL, RabbitMQ and Vue. It uses the RAPTOR algorithm (Round-based Public Transit Optimized Router), which finds efficient journeys by processing public-transport routes in rounds—each round represents one additional transfer—rather than modelling the network as a traditional graph.
-- **Cloud-Native Infrastructure** — Automated GKE deployment using Kubernetes, Ansible, monitoring dashboards and load testing.
+- **Flood Prediction Lakehouse**:Data ingestion pipelines, a SQL Server data warehouse and ML models for hydrological prediction.
+- **Public Transport Platform**: A ticketing and route-planning platform built with Spring Boot, PostgreSQL, RabbitMQ and Vue. It uses the RAPTOR algorithm (Round-based Public Transit Optimized Router), which finds efficient journeys by processing public-transport routes in rounds—each round represents one additional transfer—rather than modelling the network as a traditional graph.
+- **Cloud-Native Infrastructure**: Automated GKE deployment using Kubernetes, Ansible, monitoring dashboards and load testing.
 
 ## 🧰 Languages & Tools
 
