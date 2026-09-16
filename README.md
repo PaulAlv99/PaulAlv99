@@ -1,36 +1,34 @@
 # Paulo Alves
 
-### Software Engineering Master's Student | Backend, ML & Data
+### Computer engineer building backend systems, data platforms and applied ML
 
-I’m a Master’s student in Computer Science and Engineering at the University of Minho.
+I’m completing an MSc in Computer Science and Engineering at Universidade do Minho, after a BSc at Universidade da Madeira. I enjoy working across the full path from trustworthy data to usable software: APIs, pipelines, model evaluation and deployment.
 
-I enjoy building reliable software systems, from backend APIs, data pipelines and machine-learning solutions. I’m currently seeking opportunities where I can grow as a software engineer and contribute to meaningful, real-world products.
+I’m open to full-time software engineering, backend, data engineering, machine-learning and research opportunities across Portugal and the EU, including remote work and relocation.
 
-## What I work with
+## Selected work
 
-- Backend development with Java, Spring Boot and REST APIs
-- Data engineering, SQL, ETL/ELT and data warehousing
-- Python for automation, data analysis and machine learning
-- Developing systems using Docker and for cloud solutions (GCP) I used Kubernetes and Ansible
-- Monitoring and performance testing with Prometheus, Grafana and k6
+- **[PreFlood — Mondego Early Warning](https://pauloalvesprojects.serveblog.net/pre-flood/)** — An end-to-end data lakehouse and applied-ML workflow joining IPMA, SNIRH and ERA5-Land data. It prepares more than 8.3 million measurements from 244 stations and supports water-level forecasting and flood-probability signals.
+- **[BankingFor](https://pauloalvesprojects.serveblog.net/bankingfor/)** — A distributed banking platform with Spring Boot services, a Vue interface, Consul discovery, RabbitMQ messaging, Redis, PostgreSQL per service, Prometheus/Grafana and Ansible.
+- **[Public Transport Platform](https://pauloalvesprojects.serveblog.net/public-transport-platform/)** — A ticketing and route-planning platform built with Spring Boot, Vue/Quasar, PostgreSQL, RabbitMQ and OAuth2/JWT/PKCE.
+- **[CVGen](https://pauloalvesprojects.serveblog.net/cvgen/)** — A live Spring Boot/Vue/PostgreSQL application for bilingual CV editing, PDF generation, previewing and job-description analysis.
+- **[Autonomous Research Agent](https://pauloalvesprojects.serveblog.net/autonomous-research-agent/)** — A Python platform for durable literature-review workflows using FastAPI, Celery, PostgreSQL/pgvector, Redis, LangGraph checkpoints and source adapters.
+- **[SecurityPlugin](https://github.com/PaulAlv99/SecurityPlugin)** — An open-source Firefox extension that makes trackers, advertising and analytics connections visible.
 
-## Featured projects
+## Technical focus
 
-- **Flood Prediction Lakehouse**:Data ingestion pipelines, a SQL Server data warehouse and ML models for hydrological prediction.
-- **Public Transport Platform**: A ticketing and route-planning platform built with Spring Boot, PostgreSQL, RabbitMQ and Vue. It uses the RAPTOR algorithm (Round-based Public Transit Optimized Router), which finds efficient journeys by processing public-transport routes in rounds—each round represents one additional transfer—rather than modelling the network as a traditional graph.
-- **Cloud-Native Infrastructure**: Automated GKE deployment using Kubernetes, Ansible, monitoring dashboards and load testing.
+- **Backend and systems:** Java, Spring Boot, REST APIs, event-driven services, microservices and distributed workflows.
+- **Data and ML:** Python, SQL, ETL/ELT, dimensional modelling, data quality, LightGBM, TensorFlow and experiment evaluation.
+- **Delivery and operations:** PostgreSQL, Docker, Kubernetes, GCP, Ansible, Prometheus, Grafana and k6.
 
-## 🧰 Languages & Tools
+## Education
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,sklearn,postgres,mysql,mongodb,docker,kubernetes,gcp,ansible,git,github,linux,js" />
-</p>
+- **MSc Computer Science and Engineering**, Universidade do Minho · 2025–present
+- **BSc Computer Science and Engineering**, Universidade da Madeira · 2022–2025
+- **Erasmus+**, University of Maribor · spring 2025
 
-## Beyond code
+Some case-study repositories remain private. The portfolio links explain the architecture and engineering decisions, and I can share more detail when appropriate.
 
-Outside technology, I enjoy travelling, nature and mountains, swimming, running, the beach, music and reading.
+## Connect
 
-## Connect with me
-
-- LinkedIn: [linkedin.com/in/paulo-alves-a30993151](https://www.linkedin.com/in/paulo-alves-a30993151/)
-- Portfolio: [pauloalvesprojects.serveblog.net](https://pauloalvesprojects.serveblog.net/)
+[Portfolio](https://pauloalvesprojects.serveblog.net/) · [GitHub](https://github.com/PaulAlv99) · [LinkedIn](https://www.linkedin.com/in/paulo-alves-a30993151/)
